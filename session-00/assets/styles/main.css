@@ -8,9 +8,14 @@ p {
     background-color: #B6E3FF;
 }
 
-#fa-p {
+#container {
+    width: 88%;
+    margin: auto;
+}
+
+.my-fa-class {
     color: #000;
-    background-color: #d0ffdf;
+    background-color: #a9ff82;
     text-align: right;
     font-family: tahoma, sans-serif;
     font-size: 14px;
@@ -18,8 +23,42 @@ p {
         /*bold*/
     ;
     line-height: 2em;
+    border-right: 7px rgb(14, 77, 0) solid;
 }
 
+.my-fa-class p {
+    padding-right: 10px;
+    padding-top: 5px;
+    color: #333;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: inherit;
+    border-right: 10px rgb(39, 133, 18) solid;
+    border-top: #23c223 3px solid;
+    border-bottom: #c2af23 3px solid;
+    /* border:5px solid blue; */
+    /* border-style: dashed; */
+    /* border-width: 10px; */
+    /* border-color: red; */
+
+    /* padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px; */
+
+    /* padding: 20px 10px 20px 10px; */
+    /* padding: 20px 10px; */
+    padding: 30px;
+
+    margin-top: 55px;
+    margin-bottom: 55px;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.justify {
+    text-align: justify;
+}
 
 h4 {
     color: rgb(130, 0, 0);

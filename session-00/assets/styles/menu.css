@@ -1,3 +1,7 @@
+.nav {
+    border-bottom: 3px solid #9bcf00;
+}
+
 .menu {
     list-style: none;
     margin-bottom: 10px;

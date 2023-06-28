@@ -2,7 +2,7 @@ body {
     margin: 0;
 }
 
-.container{
+.container {
     width: 88%;
     margin: auto;
 }
@@ -13,7 +13,6 @@ body {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    position: sticky;
 }
 
 .menu li {
@@ -28,3 +27,6 @@ body {
     text-decoration: none;
 }
 
+.menu li a:hover {
+    background-color: #d51c00;
+}

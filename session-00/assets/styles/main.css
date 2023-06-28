@@ -60,6 +60,11 @@ p {
     text-align: justify;
 }
 
+.justify-rtl {
+    text-align: justify;
+    direction: rtl;
+}
+
 h4 {
     color: rgb(130, 0, 0);
     border: 2px #23c223 solid;

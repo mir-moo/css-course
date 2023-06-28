@@ -11,7 +11,8 @@
     display: block;
 }
 
-.my-form input[type=text] {
+.my-form input[type=text],
+.my-form input[type=email] {
     width: 100%;
 }
 
@@ -49,6 +50,7 @@
     border-color: #ebac00;
 }
 
-.my-form input[type=text]:focus {
+.my-form input[type=text]:focus,
+.my-form input[type=email]:focus {
     background-color: #fff4d5;
 }

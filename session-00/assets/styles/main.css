@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: #cecece;
+    background-color: #f2f2f2;
 }
 
 a {
@@ -99,7 +99,7 @@ h4 {
 
 .list-style {
     background-color: #fff;
-    border: 2px solid #cecece;
+    border: 3px solid #cecece;
     padding: 20px 20px;
     margin: 20px 0;
     text-align: left;

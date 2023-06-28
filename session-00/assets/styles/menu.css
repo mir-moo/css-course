@@ -1,19 +1,9 @@
-.nav {
-    border-bottom: 3px solid #9bcf00;
-}
-
 .menu {
     list-style: none;
     margin-bottom: 10px;
     padding: 0;
     overflow: hidden;
     background-color: #333;
-}
-
-.menu ul {
-    list-style: none;
-    margin: auto;
-    padding: auto;
 }
 
 .menu li {

@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+ul.fixed-menu {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+ul.fixed-menu li {
+    float: right;
+}
+
+ul.fixed-menu li a {
+    display: block;
+    text-decoration: none;
+    padding: 10px 15px;
+    color: #fff;
+}
+
+ul.fixed-menu li a:hover {
+    background-color: #d51c00;
+}

@@ -3,6 +3,12 @@ body {
     background-color: #cecece;
 }
 
+a{
+    color: #000000;
+    text-decoration: none;
+}
+
+
 p {
     color: blue;
     background-color: #B6E3FF;

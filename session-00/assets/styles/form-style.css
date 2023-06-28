@@ -100,6 +100,7 @@
 #my-sidebar{
     width: 40%;
     /* border-radius: 10px; */
+    border-top-right-radius: 40px;
     background-color: #ffbb00;
     color: #000;
     float: right;

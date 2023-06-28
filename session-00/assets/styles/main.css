@@ -1,13 +1,28 @@
-body{
+body {
     text-align: center;
+    background-color: #cecece;
 }
 
-p{
+p {
     color: blue;
     background-color: #B6E3FF;
 }
 
-h4{
-    color:red;
+#fa-p {
+    color: #000;
+    background-color: #d0ffdf;
+    text-align: right;
+    font-family: tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: 400
+        /*bold*/
+    ;
+    line-height: 2;
+}
+
+
+h4 {
+    color: rgb(130, 0, 0);
     border: 2px #23c223 solid;
+    background-color: #fcea60;
 }

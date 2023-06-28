@@ -112,6 +112,22 @@ h4 {
     padding: 0;
 }
 
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.mr-20 {
+    margin-right: 20px;
+}
+
+.ml-20 {
+    margin-left: 20px;
+}
+
 /* .list-style a{
     color: #000000;
     text-decoration: none;

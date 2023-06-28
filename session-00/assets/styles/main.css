@@ -100,16 +100,15 @@ h4 {
 .list-style {
     background-color: #fff;
     border: 3px solid #cecece;
-    padding: 20px 20px;
     margin: 20px 0;
-    text-align: left;
+    text-align: center;
     line-height: 1.5rem;
 }
 
 .list-style ul {
     /* list-style: square; */
     list-style: none;
-    padding: 0;
+    padding: 20px 20px;
 }
 
 .mt-20 {
@@ -133,7 +132,7 @@ h4 {
     text-decoration: none;
 } */
 
-.box{
+.box {
     background-color: #fff;
     border: 3px solid #cecece;
     padding: 20px 20px;

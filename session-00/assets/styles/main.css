@@ -21,7 +21,7 @@ a:active {
 a:visited {
     text-decoration: none;
     color: #b70000;
-    font-weight: bold;
+    font-weight: 800;
 }
 
 p {

@@ -86,3 +86,8 @@
 .clear{
     clear: both;
 }
+
+#my-content{
+    width: 60%;
+    background-color: #fff;
+}

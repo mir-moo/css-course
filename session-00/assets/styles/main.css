@@ -142,6 +142,7 @@ h4 {
 } */
 
 .box {
+    float: left;
     background-color: #fff;
     border: 3px solid #cecece;
     padding: 20px 20px;

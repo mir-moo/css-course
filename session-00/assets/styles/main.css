@@ -3,11 +3,26 @@ body {
     background-color: #cecece;
 }
 
-a{
+a {
     color: #000000;
     text-decoration: none;
 }
 
+a:hover {
+    text-decoration: underline;
+    color: #ff6f00;
+}
+
+a:active {
+    text-decoration: none;
+    color: #d900ff;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #b70000;
+    font-weight: bold;
+}
 
 p {
     color: blue;
@@ -90,11 +105,13 @@ h4 {
     text-align: left;
     line-height: 1.5rem;
 }
-.list-style ul{
+
+.list-style ul {
     /* list-style: square; */
     list-style: none;
     padding: 0;
 }
+
 /* .list-style a{
     color: #000000;
     text-decoration: none;

@@ -1,0 +1,28 @@
+.my-form {
+    padding: 20px;
+}
+
+.my-form .form-item-group {
+    padding: 10px 0;
+}
+
+.my-form label {
+    display: block;
+}
+
+.my-form input[type=text] {
+    width: 100%;
+}
+
+.my-form input[type=submit] {
+    background-color: #12b300;
+    color: white;
+    border: black solid 1px;
+    padding: 5px 10px;
+}
+.my-form input[type=submit] {
+    background-color: #0f8e00;
+    color: white;
+    border: black solid 1px;
+    padding: 5px 10px;
+}

@@ -58,11 +58,16 @@ p {
 
 .justify {
     text-align: justify;
+    text-decoration: underline;
+    letter-spacing: 0.25em;
+    word-spacing: .5em;
+    text-transform: capitalize;
 }
 
 .justify-rtl {
     text-align: justify;
     direction: rtl;
+    font-style: italic;
 }
 
 h4 {

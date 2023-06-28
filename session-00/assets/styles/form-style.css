@@ -120,6 +120,11 @@
     background-color: #ffffff;
     margin: auto;
     position: relative;
+    background-image: url(../images/taj-mahal-river-wide.jpg);
+    background-repeat: no-repeat;
+    /* background-position: 50px; */
+    background-position: 10px 30px;
+    /* background-position: center; */
 }
 
 .position-test h3 {

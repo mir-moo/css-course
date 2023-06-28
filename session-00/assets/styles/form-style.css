@@ -1,5 +1,6 @@
 .my-form {
     padding: 20px;
+    width: 50%;
 }
 
 .my-form .form-item-group {
@@ -27,6 +28,7 @@
     border: #0f9700 solid 3px;
     padding: 5px 10px;
 }
+
 .my-btn-green:hover {
     color: #000;
     background-color: #16dc00;
@@ -40,8 +42,13 @@
     border: #dba000 solid 3px;
     padding: 5px 10px;
 }
+
 .my-btn-yellow:hover {
     color: #000;
     background-color: #ebac00;
     border-color: #ebac00;
+}
+
+.my-form input[type=text]:focus {
+    background-color: #fff4d5;
 }

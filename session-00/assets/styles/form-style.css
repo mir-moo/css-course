@@ -83,11 +83,11 @@
     box-sizing: border-box;
 }
 
-.clear{
+.clear {
     clear: both;
 }
 
-#my-content{
+#my-content {
     width: 60%;
     /* border-radius: 10px; */
     border-top-left-radius: 40px;
@@ -97,7 +97,8 @@
     padding-left: 10px;
     padding-right: 10px;
 }
-#my-sidebar{
+
+#my-sidebar {
     width: 40%;
     /* border-radius: 10px; */
     border-top-right-radius: 40px;
@@ -108,6 +109,19 @@
     padding-left: 10px;
     padding-right: 10px;
 }
-.bg-white{
+
+.bg-white {
     background-color: #fff;
+}
+
+.position-test {
+    width: 500px;
+    height: 500px;
+}
+
+.position-test h3 {
+    top: 100px;
+    position: absolute;
+    color: #000;
+    background-color: #f9f500;
 }

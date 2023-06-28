@@ -89,5 +89,15 @@
 
 #my-content{
     width: 60%;
+    background-color: #ff7272;
+    float: left;
+}
+#my-sidebar{
+    width: 40%;
+    background-color: #ffbb00;
+    color: #000;
+    float: right;
+}
+.bg-white{
     background-color: #fff;
 }

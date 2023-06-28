@@ -82,3 +82,7 @@
     float: left;
     box-sizing: border-box;
 }
+
+.clear{
+    clear: both;
+}
